@@ -11,8 +11,11 @@ This is a **machine learning-based web application** built with **Streamlit** th
 - Input medical parameters and get instant results
 - Model trained using balanced data with **SMOTE**
 - Uses **scikit-learn**, **pandas**, and **Streamlit** for an end-to-end ML workflow
+- ----------------
+## Demo of UI
+<img width="1133" alt="Screenshot 2025-06-12 at 8 23 56 PM" src="https://github.com/user-attachments/assets/6c3c133a-86ae-46c8-881f-e5f86a12087a" />
 
----
+
 
 ## 🛠️ Tech Stack
 
