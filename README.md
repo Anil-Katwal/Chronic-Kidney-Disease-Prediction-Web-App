@@ -33,6 +33,6 @@ This is a **machine learning-based web application** built with **Streamlit** th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/kidney-disease-prediction.git
+git clone https://github.com/Anil-Katwal/kidney-disease-prediction.git
 cd kidney-disease-prediction
 
